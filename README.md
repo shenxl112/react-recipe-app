@@ -1,7 +1,7 @@
 # React Recipe Search Application
 
 * This is the recipe search application using only [ReactJS](https://reactjs.org/). 
-![Screenshot](./public/screenshot.png)
+![Screenshot](./public/recipe.png)
 
 ## Getting Started
 
